@@ -10,7 +10,7 @@
   
 - 🔭 I’m currently working on [AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project](https://github.com/KunalAnand2907/EVOLVFIT_DATA_Science)
 
-- 🌱 I’m currently learning **Salesforce, Full Stack Technologies: HTML,CSS,Bootstrap,JavaScript, Django, Node.js & React.js**
+- 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML,CSS,Bootstrap,JavaScript, Django, Node.js & React.js**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Big Data, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps**
 
