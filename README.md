@@ -23,12 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal-anand-b36730169/" height="20" width="20" /></a>
-<a href="https://kaggle.com/kunal18csu110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kunal18csu110" height="20" width="30" /></a>
-<a href="https://instagram.com/kunalan2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalan2907" height="20" width="30" /></a>
-<a href="https://medium.com/@kunalanand2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kunalanand2907" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/kun2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kun2907" height="20" width="30" /></a>
-<a href="https://www.hackerearth.com/@kunalanand2907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kunalanand2907" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="blank"><img align="center" src="![linkedin](https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f4cbc9d6-4ce2-436a-bd11-55c0c0f809e5)" height="20" width="20" /></a>
+<a href="https://kaggle.com/kunal18csu110" target="blank"><img align="center" src="" alt="kunal18csu110" height="20" width="30" /></a>
+<a href="https://instagram.com/kunalan2907" target="blank"><img align="center" src="" alt="kunalan2907" height="20" width="30" /></a>
+<a href="https://medium.com/@kunalanand2907" target="blank"><img align="center" src="" alt="@kunalanand2907" height="20" width="30" /></a>
+<a href="https://www.leetcode.com/kun2907" target="blank"><img align="center" src="![leetcode](https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/89218606-951d-4bb1-9408-23ef27b23c63)
+" alt="kun2907" height="20" width="30" /></a>
+<a href="https://www.hackerearth.com/@kunalanand2907" target="blank"><img align="center" src="" alt="@kunalanand2907" height="20" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
