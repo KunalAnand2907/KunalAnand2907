@@ -4,8 +4,7 @@
 <h4 align="center"><span style='color:black'>Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS Certified Solution Architect Associate | Aspiring AIML, Data Science, Big Data, NLP, Python, Data Mining & Analysis (Tableau & Power BI), DevOps, Software Developer Enthusiast</span></h4>
 <img align="right" alt="Coding" width="560" height="460" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907" /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
 - 👨‍💻  I am currently working as a Data Engineer at Cognizant with 1.8 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
@@ -13,23 +12,22 @@
 
 - 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML,CSS,Bootstrap,JavaScript, Django, Node.js & React.js**
 
-- 💬 Ask me about **Machine Learning, Deep Learning, Big Data, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps**
+- 💬 Ask me about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data, NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
 
 - 📫 How to reach me **kunalanand2907@gmail.com**
 
-- 📄 Resume & Cover Letter Link [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
+- 📄 Resume & Cover Letter Link --> [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="blank"><img align="center" src="![linkedin](https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f4cbc9d6-4ce2-436a-bd11-55c0c0f809e5)" height="20" width="20" /></a>
-<a href="https://kaggle.com/kunal18csu110" target="blank"><img align="center" src="" alt="kunal18csu110" height="20" width="30" /></a>
-<a href="https://instagram.com/kunalan2907" target="blank"><img align="center" src="" alt="kunalan2907" height="20" width="30" /></a>
-<a href="https://medium.com/@kunalanand2907" target="blank"><img align="center" src="" alt="@kunalanand2907" height="20" width="30" /></a>
-<a href="https://www.leetcode.com/kun2907" target="blank"><img align="center" src="![leetcode](https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/89218606-951d-4bb1-9408-23ef27b23c63)
-" alt="kun2907" height="20" width="30" /></a>
-<a href="https://www.hackerearth.com/@kunalanand2907" target="blank"><img align="center" src="" alt="@kunalanand2907" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/a0b95987-4f05-4eee-9576-6b9b2c1ecbbd" alt="kunal-anand-b36730169/" height="25" width="25"></a> &nbsp
+<a href="https://kaggle.com/kunal18csu110" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/08fd6166-5ac0-4c02-a90b-a9fc7e97f73f" alt="kunal18csu110" height="22" width="40" /></a>
+<a href="https://instagram.com/kunalan2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/16264991-2e29-497e-b091-52919007da60" alt="kunalan2907" height="30" width="30" /></a>
+<a href="https://medium.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/e22879a8-9d55-436c-89d9-654c21d1437c" alt="@kunalanand2907" height="25" width="25"/></a>
+<a href="https://www.leetcode.com/kun2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/79a13b3b-57e4-4e84-b501-816b241bba1b" alt="kun2907" height="35" width="35"/></a>
+<a href="https://www.hackerearth.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f71b37eb-f61b-4426-8765-eac0ba7e8f5e" alt="@kunalanand2907" height="24" width="24" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
