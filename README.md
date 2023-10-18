@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_600_2000/0/1603042799143?e=2147483647&v=beta&t=eGCjg509uNJg0c6NQEq-MG5MWH2mftTxqJ8lTONhkTg)
 
-<h3 align="center">Hi There<img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/5f916b6b-3ad1-4d6c-9a98-b6f6c2d72c4c" width ="45" height="38">, I'm Kunal Anand </h3>
+<h3 align="center">Hi There <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/5f916b6b-3ad1-4d6c-9a98-b6f6c2d72c4c" width ="45" height="38"> , I'm Kunal Anand </h3>
 
 <h4 align="center"><span style='color:black'>Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring AIML, Data Science, Big Data, NLP, Python, Data Mining & Analysis (Tableau & Power BI), DevOps, Software Developer Enthusiast</span></h4>
 <img align="right" alt="Coding" width="440" height="300" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
