@@ -42,8 +42,6 @@
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalanand2907" alt="kunalanand2907" /></a> </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalanand2907&show_icons=true&locale=en&layout=compact" alt="kunalanand2907"/></p>
-<br>
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalanand2907&show_icons=true&locale=en" alt="kunalanand2907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalanand2907&" alt="kunalanand2907" /></p>
