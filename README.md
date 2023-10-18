@@ -4,7 +4,7 @@
 
 <p align="center">Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring AIML, Data Science, Big Data, NLP, Python, Data Analysis (Tableau, Power BI), DevOps, Software Developer Enthusiast</p>
 
-<img align="right" alt="Coding" width="400" height="280" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
+<img align="right" alt="Coding" width="380" height="260" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
