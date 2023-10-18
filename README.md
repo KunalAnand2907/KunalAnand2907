@@ -4,16 +4,16 @@
 
 <p align="center">Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring AIML, Data Science, Big Data, NLP, Python, Data Analysis (Tableau, Power BI), DevOps, Software Developer Enthusiast</p>
 
-<img align="right" alt="Coding" width="420" height="290" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
+<img align="right" alt="Coding" width="400" height="280" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am currently working as a Data Engineer at Cognizant with 1.9 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
+- 👨‍💻  I am currently working as a **Data Engineer** at **Cognizant** with 1.9 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
 - 🔭 I’m currently working on [AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project](https://github.com/KunalAnand2907/EVOLVFIT_DATA_Science)
 
-- 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML,CSS,Bootstrap,JavaScript, Django, Node.js & React.js**
+- 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node.js & React.js**
 
 - 💬 Ask me anything about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data, NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
 
@@ -21,7 +21,7 @@
 
 - 📄 Resume & Cover Letter Link -- [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
-- 👨🏻‍🎓 My Education -- B. Tech in CSE(Specialization : Data Science & Artificial Intelligence) From The Northcap University | Graduated (2018-2022) | CGPA: 8.55/10
+- 👨🏻‍🎓 My Education -- **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The Northcap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
 
 - ⚡ Fun fact **I think I am Funny**
 
