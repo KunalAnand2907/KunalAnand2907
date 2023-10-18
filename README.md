@@ -47,5 +47,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalanand2907&" alt="kunalanand2907" /></p>
 
-<h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="35" height="35"> By Kunal Anand </h4>
+<h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="30" height="30"> By Kunal Anand </h4>
 
