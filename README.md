@@ -1,22 +1,25 @@
 [![MasterHead](https://media.licdn.com/dms/image/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_600_2000/0/1603042799143?e=2147483647&v=beta&t=eGCjg509uNJg0c6NQEq-MG5MWH2mftTxqJ8lTONhkTg)]()
-<h3 align="center"><span style='color:black'>Hi There<img alt = "Coding" src ="https://camo.githubusercontent.com/bc558f5b365e3b47c6075ff61cac878e6e5d4ed7428acf297be59d8c0b7b1b72/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3939383534343538363435343631343031362f313031393839383038393630353138353535362f48616e64576176652e676966" width ="35" height="35">, I'm Kunal Anand</span></h3>
+<h3 align="center"><span style='color:black'>Hi There<img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/418583b8-9627-4820-8edf-e738fc13f913" width ="40" height="37">, I'm Kunal Anand</span></h3>
 
 <h4 align="center"><span style='color:black'>Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS Certified Solution Architect Associate | Aspiring AIML, Data Science, Big Data, NLP, Python, Data Mining & Analysis (Tableau & Power BI), DevOps, Software Developer Enthusiast</span></h4>
-<img align="right" alt="Coding" width="560" height="460" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<img align="right" alt="Coding" width="440" height="300" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am currently working as a Data Engineer at Cognizant with 1.8 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
+- 👨‍💻  I am currently working as a Data Engineer at Cognizant with 1.9 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
 - 🔭 I’m currently working on [AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project](https://github.com/KunalAnand2907/EVOLVFIT_DATA_Science)
 
 - 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML,CSS,Bootstrap,JavaScript, Django, Node.js & React.js**
 
-- 💬 Ask me about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data, NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
+- 💬 Ask me anything about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data, NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
 
-- 📫 How to reach me **kunalanand2907@gmail.com**
+- 📫 How to reach me 📧 -- **kunalanand2907@gmail.com**, 📞 -- **+91 7042939501**
 
-- 📄 Resume & Cover Letter Link --> [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
+- 📄 Resume & Cover Letter Link -- [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
+
+- 👨🏻‍🎓 My Education -- B. Tech in CSE(Specialization : Data Science & Artificial Intelligence) From The Northcap University | Graduated (2018-2022) | CGPA: 8.55/10
 
 - ⚡ Fun fact **I think I am Funny**
 
@@ -41,3 +44,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalanand2907&show_icons=true&locale=en" alt="kunalanand2907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalanand2907&" alt="kunalanand2907" /></p>
+
+<h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="35" height="35"> By Kunal Anand </h4>
+
