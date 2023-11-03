@@ -11,7 +11,7 @@
 
 - 👨‍💻  I am currently working as a **Data Engineer** at **Cognizant** with 1.10 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
-- 🔭 I’m currently working on [AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project](https://github.com/KunalAnand2907/EVOLVFIT_DATA_Science)
+- 🔭 I’m currently working on [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
 - 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node.js & React.js**
 
