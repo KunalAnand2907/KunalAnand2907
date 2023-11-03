@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am currently working as a **Data Engineer** at **Cognizant** with 1.9 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
+- 👨‍💻  I am currently working as a **Data Engineer** at **Cognizant** with 1.10 years of experience in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
 - 🔭 I’m currently working on [AI Pose Estimation with Python and MediaPipe | Plus AI Gym Tracker Project](https://github.com/KunalAnand2907/EVOLVFIT_DATA_Science)
 
