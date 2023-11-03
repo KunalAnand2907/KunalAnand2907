@@ -2,7 +2,7 @@
 
 <h3 align="center"><span style='color:black;'>Hi There <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/5f916b6b-3ad1-4d6c-9a98-b6f6c2d72c4c" width ="45" height="38"> , I'm Kunal Anand</span></h3>
 
-<p align="center">Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring AIML, Data Science, Big Data, NLP, Python, Data Analysis (Tableau, Power BI), DevOps, Software Developer Enthusiast</p>
+<p align="center">Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring Python, AI, Machine Learning, Deep Learning, NLP, Data Structures, Statistics, Linux, Big Data, SQL, Data Analysis (Tableau,Power BI), ETL, DevOps, Image Processing & Computer Vision Software Developer Enthusiast !</p>
 
 <img align="right" alt="Coding" width="380" height="260" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/22230352-22ba-4462-9536-b5cafd044ca0">
 
