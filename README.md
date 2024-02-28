@@ -4,7 +4,7 @@
 
 <h4 align="center">Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring Python, AI/ML, Deep Learning, NLP, Data Structures, Statistics, Linux, Big Data, SQL, Data Analysis (Tableau, Power BI), ETL, DevOps, Generative AI, Image Processing & Software Developer Enthusiast !</h4>
 
-<img align="right" alt="Coding" width="390" height="290" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/19d21bfd-789b-4396-8047-577c754e5aad">
+<img align="right" alt="Coding" width="400" height="300" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/19d21bfd-789b-4396-8047-577c754e5aad">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
@@ -26,12 +26,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/a0b95987-4f05-4eee-9576-6b9b2c1ecbbd" alt="kunal-anand-b36730169/" height="25" width="25"></a> &nbsp
-<a href="https://kaggle.com/kunal18csu110" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/08fd6166-5ac0-4c02-a90b-a9fc7e97f73f" alt="kunal18csu110" height="22" width="40" /></a>
-<a href="https://instagram.com/kunalan2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/16264991-2e29-497e-b091-52919007da60" alt="kunalan2907" height="30" width="30" /></a>
-<a href="https://medium.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/e22879a8-9d55-436c-89d9-654c21d1437c" alt="@kunalanand2907" height="25" width="25"/></a>
-<a href="https://www.leetcode.com/kun2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/79a13b3b-57e4-4e84-b501-816b241bba1b" alt="kun2907" height="35" width="35"/></a>
-<a href="https://www.hackerearth.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f71b37eb-f61b-4426-8765-eac0ba7e8f5e" alt="@kunalanand2907" height="24" width="24" /></a>
+<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/a0b95987-4f05-4eee-9576-6b9b2c1ecbbd" alt="kunal-anand-b36730169/" height="30" width="30"></a> &nbsp
+<a href="https://kaggle.com/kunal18csu110" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/08fd6166-5ac0-4c02-a90b-a9fc7e97f73f" alt="kunal18csu110" height="30" width="43" /></a>
+<a href="https://instagram.com/kunalan2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/16264991-2e29-497e-b091-52919007da60" alt="kunalan2907" height="35" width="35" /></a>
+<a href="https://medium.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/e22879a8-9d55-436c-89d9-654c21d1437c" alt="@kunalanand2907" height="30" width="30"/></a>
+<a href="https://www.leetcode.com/kun2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/79a13b3b-57e4-4e84-b501-816b241bba1b" alt="kun2907" height="40" width="40"/></a>
+<a href="https://www.hackerearth.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f71b37eb-f61b-4426-8765-eac0ba7e8f5e" alt="@kunalanand2907" height="30" width="30" /></a>
 </p>
 
 
