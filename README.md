@@ -2,13 +2,13 @@
 
 <h2 align="center"><span style='color:black;'>Hi There <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/5f916b6b-3ad1-4d6c-9a98-b6f6c2d72c4c" width ="55" height= 48"> , I'm Kunal Anand</span></h2>
 
-<h4 align="center">Data Engineer at Cognizant | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring Python, AI/ML, Deep Learning, NLP, Data Structures, Statistics, Linux, Big Data, SQL, Data Analysis (Tableau, Power BI), ETL, DevOps, Generative AI, Image Processing & Software Developer Enthusiast !</h4>
+<h4 align="center">Solutions Engineer at Confluent | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | Aspiring Python, AI/ML, Deep Learning, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, SQL, Data Analysis (Tableau, Power BI), ETL, DevOps, Generative AI, Image Processing & Software Developer Enthusiast !</h4>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/19d21bfd-789b-4396-8047-577c754e5aad">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am currently working as a **Data Engineer** at **Cognizant** with 2.2 Y.O.E in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
+- 👨‍💻  I am currently working as a **Solutions Engineer at Confluent** with 2.3 Y.O.E in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
 - 🔭 I’m currently working on [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
