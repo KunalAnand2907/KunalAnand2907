@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am currently working as a **Solutions Engineer at Confluent** with 2.9 Y.O.E in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
+- 👨‍💻  I am currently working as a **Solutions Engineer at Confluent** with 2.10 Y.O.E in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
   
 - 🔭 I’m currently working on [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
 - 🌱 I’m currently learning **Cloud (CRM): Salesforce, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node.js & React.js**
 
-- 💬 Ask me anything about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data ~ Kafka & Flink, NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
+- 💬 Ask me anything about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data ~ [ Hadoop, Spark, Kafka & Flink], NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
 
 - 📫 How to reach me 📧 -- **kunalanand2907@gmail.com**, 📞 -- **+91 7042939501**
 
