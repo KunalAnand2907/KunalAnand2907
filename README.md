@@ -2,7 +2,7 @@
 
 <h2 align="center"><span style='color:black;'>Hi There <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/5f916b6b-3ad1-4d6c-9a98-b6f6c2d72c4c" width ="55" height= 48"> , I'm Kunal Anand</span></h2>
 
-<h4 align="center">Solutions Engineer at Confluent | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, Deep Learning, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, SQL, Data Analysis (Tableau, Power BI), ETL, DevOps, Generative AI, Image Processing & Software Developer Enthusiast !</h4>
+<h4 align="center"> 💫 Solutions Engineer at Confluent | 2nd Position at SIH Grand Finale 2022 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, Deep Learning, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, SQL, Data Analysis (Tableau, Power BI), ETL, DevOps, Generative AI, Image Processing & Software Developer Enthusiast !</h4>
 
 <img align="right" alt="Coding" width="400" height="300" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/19d21bfd-789b-4396-8047-577c754e5aad">
 
@@ -22,7 +22,7 @@
 
 - 👨🏻‍🎓 My Education -- **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The Northcap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Solved **400+ questions** on various **competitive coding platforms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
