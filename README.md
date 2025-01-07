@@ -43,13 +43,10 @@
 ### ⚙️&nbsp; GitHub Analytics
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalanand2907" alt="kunalanand2907" /></a> </p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalanand2907&show_icons=true&locale=en&layout=compact" alt="kunalanand2907"/></p>
-&nbsp;
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalanand2907&show_icons=true&locale=en" alt="kunalanand2907" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalanand2907&show_icons=true&locale=en" alt="kunalanand2907" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalanand2907&" alt="kunalanand2907" /></p>
 
 <h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="30" height="30"> By Kunal Anand </h4>
-
