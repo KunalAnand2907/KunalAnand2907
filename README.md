@@ -5,7 +5,7 @@
  **🌟 Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer at Confluent | Runner Up SIH Grand Finale 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI, ML, DL, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Kafka, SQL, 📊 Data Analysis (Tableau, Power BI), ETL, DevOps, GenAI, Image Processing & SDE Enthusiast! 
 
 <img align="right" alt="Coding" width="400" height="300" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/19d21bfd-789b-4396-8047-577c754e5aad">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
 - 👨‍💻  I am currently working as a **Solutions Engineer at Confluent** with 3.1 Y.O.E in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
