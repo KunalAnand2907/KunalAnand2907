@@ -28,14 +28,15 @@
 
 ### 📚&nbsp;**Connect with me:**
 
-<p align="left">
-<a href="https://linkedin.com/in/kunal-anand-b36730169/" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/a0b95987-4f05-4eee-9576-6b9b2c1ecbbd" alt="kunal-anand-b36730169/" height="30" width="30"></a> &nbsp
-<a href="https://kaggle.com/kunal18csu110" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/08fd6166-5ac0-4c02-a90b-a9fc7e97f73f" alt="kunal18csu110" height="30" width="47" /></a>
-<a href="https://instagram.com/kunalan2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/16264991-2e29-497e-b091-52919007da60" alt="kunalan2907" height="35" width="35" /></a>
-<a href="https://medium.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/e22879a8-9d55-436c-89d9-654c21d1437c" alt="@kunalanand2907" height="30" width="30"/></a>
-<a href="https://www.leetcode.com/kun2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/79a13b3b-57e4-4e84-b501-816b241bba1b" alt="kun2907" height="40" width="40"/></a>
-<a href="https://www.hackerearth.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f71b37eb-f61b-4426-8765-eac0ba7e8f5e" alt="@kunalanand2907" height="30" width="30" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kunal-anand-b36730169/)](https://www.linkedin.com/in/kunal-anand-b36730169/)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kunalanand2907)](https://medium.com/@kunalanand2907)&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://kaggle.com/kunal18csu110)](https://kaggle.com/kunal18csu110)&nbsp;
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/kunal7999/)](https://public.tableau.com/app/profile/kunal7999/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kun__al29/)](https://www.instagram.com/kun__al29/)&nbsp;
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@kunalanand2907/)](https://www.hackerearth.com/@kunalanand2907/)
+
+
+ <!-- ----------- Extra Part <a href="https://www.hackerearth.com/@kunalanand2907" target="_blank"><img align="center" src="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/f71b37eb-f61b-4426-8765-eac0ba7e8f5e" alt="@kunalanand2907" height="30" width="30" /></a>  ------------ -->
 
 ---
 
