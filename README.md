@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Salesforce CRM & Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node.js & React.js**
 
-- 💬 Ask me anything about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data ~ [Hadoop, Spark, Kafka & Flink], NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
+- 💬 Ask me anything about **Python, Statistics for DS, Data Structures, ML, DL, NLP, Big Data ~ [Hadoop, Spark, Kafka & Flink], SQL/No SQL, Aws, Azure, Gcp, Linux, Python, Tableau, ETL, DevOps, Regex**
 
 - 📫 How to reach me 📧 **kunalanand2907@gmail.com**, 📞 **+917042939501**
 
