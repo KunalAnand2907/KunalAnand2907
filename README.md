@@ -16,7 +16,7 @@
 
 - 💬 Ask me anything about **Python, Statistics for DS, Data Structures,Machine Learning, Deep Learning, Big Data ~ [Hadoop, Spark, Kafka & Flink], NLP, SQL/No SQL, Aws, Gcp, Linux, Python, Tableau, ETL, DevOps, Image Processing, Regex**
 
-- 📫 How to reach me 📧 **kunalanand2907@gmail.com**, 📞 **+91 7042939501**
+- 📫 How to reach me 📧 **kunalanand2907@gmail.com**, 📞 **+917042939501**
 
 - 📄 Resume & Cover Letter Link -- [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
