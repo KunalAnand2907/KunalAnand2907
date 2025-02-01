@@ -30,7 +30,7 @@
 ### 📚&nbsp; **Connect with me:**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/kunal-anand-b36730169/)](https://www.linkedin.com/in/kunal-anand-b36730169/)&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Kun2907/)](https://leetcode.com/Kun2907/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Kun2907/)](https://leetcode.com/Kun2907/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kunalanand2907)](https://medium.com/@kunalanand2907)&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://kaggle.com/kunal18csu110)](https://kaggle.com/kunal18csu110)&nbsp;
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/kunal7999/)](https://public.tableau.com/app/profile/kunal7999/)&nbsp;
