@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_600_2000/0/1603042799143?e=2147483647&v=beta&t=eGCjg509uNJg0c6NQEq-MG5MWH2mftTxqJ8lTONhkTg)
-&nbsp;
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=26&pause=1000&color=086DF7&background=C0FFCB00&width=435&lines=Thanks+for+reviewing+my+profile+!+)](https://git.io/typing-svg)
 
