@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am currently working as a **Solutions Engineer at Confluent** with 3.2 Y.O.E in IT. I am a Competitive Programmer, Tech Enthusiast, and Passionate about designing & Building Software Solutions.
+- 👨‍💻  I am a **Solutions Engineer at Confluent** with over 3.3 years of experience in IT. With a strong background in competitive programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
   
 - 🔭 I’m currently working on [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
