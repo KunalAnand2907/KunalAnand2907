@@ -1,7 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_600_2000/0/1603042799143?e=2147483647&v=beta&t=eGCjg509uNJg0c6NQEq-MG5MWH2mftTxqJ8lTONhkTg)
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=26&pause=1000&color=086DF7&background=C0FFCB00&width=435&lines=Thanks+for+reviewing+my+profile+!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=25&pause=1000&color=086DF7&background=C0FFCB00&width=435&lines=Thanks+for+reviewing+my+profile+!+)](https://git.io/typing-svg)
 
 <h2 align="center"><span style='color:black;'>Hi There<img src ="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width ="40" height= 35">, I'm Kunal Anand</span></h2>
 
