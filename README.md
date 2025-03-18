@@ -52,7 +52,10 @@
 
 ### ⚙️&nbsp; **GitHub Analytics:**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalanand2907" alt="kunalanand2907" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true
+[![trophy](https://github-profile-trophy.vercel.app/?username=kunalanand2907)](https://github.com/kunalanand2907/github-profile-trophy)
+
+<p align="left"> <a href="https://github.com/kunalanand2907/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalanand2907&no-bg=true" alt="kunalanand2907" /></a> </p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalanand2907&show_icons=true&locale=en&layout=compact" alt="kunalanand2907"/></p
                                                                                                                                                                                
