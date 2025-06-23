@@ -4,7 +4,7 @@
 
 <h2 align="center"><span style='color:black;'>Hi There<img src ="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width ="40" height= 35">, I'm Kunal Anand</span></h2>
 
- **🌟 Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer at Confluent | Runner Up SIH Grand Finale 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, Power BI), ETL, Airflow, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
+ **🌟 Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer at Confluent | Runner Up SIH Grand Finale 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, Power BI), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
 
 <img align="right" alt="Coding" width="410" height="250" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda">
 &nbsp;
