@@ -19,11 +19,11 @@
 
 - 💬 Ask me anything about **Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex**
 
-- 📫 How to reach me 📧 **kunalanand2907@gmail.com**, 📞 **+917042939501**
+- 📫 How to reach me 📧 **kunalanand2907@gmail.com**, 📞 **+91-7042939501**
 
 - 📄 Resume & Cover Letter Link -- [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
-- 👨🏻‍🎓 My Education -- **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The Northcap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
+- 👨🏻‍🎓 My Education -- **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
 
 - ⚡ Solved **400+ questions** on various **competitive coding platforms.**
 
