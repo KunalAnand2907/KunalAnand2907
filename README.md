@@ -2,30 +2,37 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=25&pause=1000&color=086DF7&background=C0FFCB00&width=435&lines=Thanks+for+reviewing+my+profile+!+)](https://git.io/typing-svg)
 
-<h2 align="center"><span style='color:black;'>Hi There<img src ="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width ="40" height= 35">, I'm Kunal Anand</span></h2>
 
- **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer at Confluent | Runner Up SIH Grand Finale 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, Power BI), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
+<h2 align="center">
+  <span style='color:black;'>
+    Hi There <img src="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width="40" height="35">, I'm <a href="https://www.linkedin.com/in/kunal-anand-b36730169/" target="_blank">Kunal Anand!</a>
+  </span>
+</h2>
 
-<img align="right" alt="Coding" width="410" height="250" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda">
-&nbsp;
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
+ **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
 
-- 👨‍💻 I am a **Solutions Engineer at Confluent** with over **3.6** Y.O.E in IT. Previously, I worked as a **Data Scientist** at **Cognizant**. With a strong background in competitive programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
+<img align="right" alt="Coding" width="410" height="250" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
+
+&nbsp; 
+
+### Glad to see you here 👀&nbsp; ![](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  
+
+- 👨‍💻 I am a **Solutions Engineer** at **Confluent** with over **3.6** Y.O.E in IT. Previously, I worked as a **Data Scientist** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
   
-- 🔭  My Latest Project -- [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
+- 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
 - 🌱 I’m currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
 
 - 💬 Ask me anything about **Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex, MLOps**
 
-- 📫 How to reach me 📧 **kunalanand2907@gmail.com**, 📞 **+91-7042939501**
+- 📫 How to reach me: 📧 **kunalanand2907@gmail.com**, 📞 **+91-7042939501**
 
-- 📄 Resume & Cover Letter Link -- [https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
+- 📄 Resume & Cover Letter Link: [Hire Me..](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
-- 👨🏻‍🎓 My Education -- **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
+- 👨🏻‍🎓 My Education: **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
 
-- ⚡ Solved **400+ questions** on various **competitive coding platforms.**
+- ⚡ Solved over **400+ questions** on various **competitive coding platforms.**
 
 ---
 
@@ -50,15 +57,31 @@
 
 ---
 
-### ⚙️&nbsp; **GitHub Analytics:**
+### ⚙️&nbsp;Github Analytics:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+![KunalAnand's Stats](https://github-readme-stats.vercel.app/api?username=KunalAnand2907&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![KunalAnand's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalAnand2907&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+
+![KunalAnand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalAnand2907&theme=dark&hide_border=true)
+
+</details>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kunalanand2907)](https://github.com/kunalanand2907/github-profile-trophy)
+#
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalanand2907&show_icons=true&locale=en&layout=compact" alt="kunalanand2907"/></p
-                                                                                                                                                                               
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalanand2907&show_icons=true&locale=en" alt="kunalanand2907" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalanand2907&" alt="kunalanand2907" /></p>
+### Let's be friends on [Twitter](https://x.com/Kunal____29)!
+
+</div>
 
 <h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="30" height="30"> By Kunal Anand </h4>
