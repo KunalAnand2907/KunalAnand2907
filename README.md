@@ -4,16 +4,16 @@
 
 <h2 align="center"><span style='color:black;'>Hi There<img src ="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width ="40" height= 35">, I'm Kunal Anand</span></h2>
 
- **🌟 Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer at Confluent | Runner Up SIH Grand Finale 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, Power BI), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
+ **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer at Confluent | Runner Up SIH Grand Finale 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, Power BI), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
 
 <img align="right" alt="Coding" width="410" height="250" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda">
 &nbsp;
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalanand2907&label=Profile%20views&color=0e75b6&style=flat" alt="kunalanand2907"/> </p>
 
-- 👨‍💻  I am a **Solutions Engineer at Confluent** with over **3.6** Y.O.E in IT. Previously, I worked as a **Data Scientist** at **Cognizant**. With a strong background in competitive programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
+- 👨‍💻 I am a **Solutions Engineer at Confluent** with over **3.6** Y.O.E in IT. Previously, I worked as a **Data Scientist** at **Cognizant**. With a strong background in competitive programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
   
-- 🔭 My Latest Project -- [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
+- 🔭  My Latest Project -- [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
 - 🌱 I’m currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
 
