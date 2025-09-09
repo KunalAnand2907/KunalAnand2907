@@ -18,7 +18,7 @@
 
 ### Glad to see you here 👀&nbsp; ![](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  
 
-- 👨‍💻 I am a **Solutions Engineer** at **Confluent** with over **3.6** Y.O.E in IT. Previously, I worked as a **Data Scientist** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
+- 👨‍💻 I am a **Solutions Engineer** at **Confluent** with over **3.7** Y.O.E in IT. Previously, I worked as a **Data Scientist** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
   
 - 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
