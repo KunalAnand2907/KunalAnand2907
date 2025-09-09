@@ -10,7 +10,7 @@
 </h2>
 
 
- **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
+ **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
 
 <img align="right" alt="Coding" width="410" height="250" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
 
