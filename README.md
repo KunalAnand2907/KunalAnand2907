@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/C5612AQH4wNEoCPNXGw/article-cover_image-shrink_600_2000/0/1603042799143?e=2147483647&v=beta&t=eGCjg509uNJg0c6NQEq-MG5MWH2mftTxqJ8lTONhkTg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=25&pause=1000&color=086DF7&background=C0FFCB00&width=435&lines=Thanks+for+reviewing+my+profile+!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=24&pause=1000&color=086DF7&background=C0FFCB00&width=435&lines=Thanks+for+reviewing+my+profile+!+)](https://git.io/typing-svg)
 
 
 <h2 align="center">
@@ -12,7 +12,7 @@
 
  **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Solutions Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
 
-<img align="right" alt="Coding" width="410" height="250" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
+<img align="right" alt="Coding" width="390" height="235" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
 
 &nbsp; 
 
@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
 
-- 💬 Ask me anything about **Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex, MLOps**
+- 💬 Ask me anything about Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex, MLOps
 
 - 📫 How to reach me: 📧 **kunalanand2907@gmail.com**, 📞 **+91-7042939501**
 
