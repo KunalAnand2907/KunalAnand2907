@@ -116,7 +116,8 @@
 
 🔧 **Tech Stack:**
 
-📊 **Performance
+📊 **Key Features:**
+
 <br>
 <br>
 <br>
@@ -126,6 +127,9 @@
 
 -- In Progress
 
+🔧 **Tech Stack:**
+
+📊 **Key Features:**
 
 </td>
 </tr>
