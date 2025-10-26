@@ -83,7 +83,7 @@
 <tr>
 <td width="54%">
 
-### **Youtube 📺 Data Mining & Analytics 📈 | End-End Data Engineering & Data Science Project**
+### 1️⃣ **Youtube 📺 Data Mining & Analytics 📈 | End-End Data Engineering & Data Science Project**
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=firefox&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)]()
 
@@ -110,7 +110,7 @@
 </td>
 <td width="54%">
 
-### ⚡ **🚦Traffic Management & Forecasting Model | Live Proctoring App integrated with 📹 Surveillance Cameras**
+### 2️⃣ **🚦Traffic Management & Forecasting Model | Live Proctoring App integrated with 📹 Surveillance Cameras**
 
 -- In Progress
 
@@ -121,13 +121,17 @@
 <br>
 <br>
 <br>
+
 ---
 
-### 🏠 **AIML one**
+### 3️⃣ **🏠 Stock Market Real-Time Data Analytics via Kafka**
 
 -- In Progress
 
 🔧 **Tech Stack:**
+
+<br>
+<br>
 
 📊 **Key Features:**
 
