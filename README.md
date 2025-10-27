@@ -196,7 +196,7 @@ timeline
 | **Customer Query Automation** | 84% ↑ resolution efficiency with 91% accuracy via AI FAQ Chatbot |
 | **Intelligent Rate Card System** | 75% ↑ model accuracy [Fine/Prompt Tuning with Drift Insights] & 60% ↓ exec.+ Mont. time via NLP-driven extraction from unstr. data [Image, Text+Image Pdfs] |
 | **Platform Usage Growth** | 40% ↑ through Confluent Kafka, Flink & ksqlDB batch + real-time streaming enablement [stream lineage, governance, schema evolution/compatibility,  & data portal insights] |
-| **Client Tech Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka, RAG, Confluent Cloud) to 200+ key stakeholders |
+| **Client Tech Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka 101, RAG, Confluent Cloud & Platform) to 200+ key stakeholders |
 
 </div>
 
