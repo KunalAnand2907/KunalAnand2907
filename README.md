@@ -191,12 +191,12 @@ timeline
 
 | 🎯 Metric | 📊 Achievement |
 |-----------|----------------|
-| **Manual Interventions Reduced** | 30% |
-| **Customer Query Automation** | 80% |
-| **Model Precision Improvement** | 38% |
-| **Hallucination Reduction** | 31% |
-| **Default Rate Reduction** | 18% |
-| **Processing Efficiency Gain** | 40% |
+| **Manual Effort (Mnging Data Pipelines) Reduction** |  70% ↓ via automated ETL workflows (Docker, Airflow, PySpark, SQL) |
+| **Data Processing Time Reduction (Imp. Query perf)** | 60% ↑ through SQL & PySpark optimizations & Glue/ Dataflow automation |
+| **Customer Query Automation** | 84% ↑ resolution efficiency with 91% accuracy via AI FAQ Chatbot |
+| **Intelligent Rate Card System** | 75% ↑ model accuracy [Fine/Prompt Tuning with Drift Insights] & 60% ↓ exec.+ Mont. time via NLP-driven extraction from unstr. data [Image, Text+Image Pdfs] |
+| **Platform Usage Growth** | 40% ↑ through Confluent Kafka, Flink & ksqlDB batch + real-time streaming enablement [stream lineage, governance, schema evolution/compatibility,  & data portal insights] |
+| **Client Tech Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka, RAG, Confluent Cloud) to 200+ key stakeholders |
 
 </div>
 
