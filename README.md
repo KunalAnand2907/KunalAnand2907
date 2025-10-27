@@ -141,7 +141,7 @@
 
 ---
 
-### ✨&nbsp;  Career Journey
+### ✨&nbsp;Career Journey:
 
     2020-2021 : 🏫 Internships
         : 🎓 F13 Technologies [Ed-Tech] ⇢ Data Analyst
