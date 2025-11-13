@@ -84,29 +84,44 @@
 <td width="54%">
 
 ### 1️⃣ **Youtube 📺 Data Mining & Analytics 📈 | End-End Data Engineering & Data Science Project**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=firefox&logoColor=white)]()
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)]()
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://yt-comments-sentiment-analyzer.streamlit.app/) &nbsp;
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalAnand2907/Youtube-Data-Mining-Analytics-End-End-Data-Engineering-Data-Science-Project)
 
-**Revolutionary interactive**
-
--- In Progress
+**Revolutionary interactive -- 🔍YouTube Analytics Intelligence Platform
+Where Data Meets Creativity for Smarter Insights 💡**
 
 🔧 **Tech Stack:**
-<br>
-<br>
-<br>
-<br>
-<br>
+
+<ul>
+<li>ETL & Storage: Python, Airflow, AWS (Lambda, S3, Glue, Athena)</li>
+<li>Scraping: YouTube Data API</li>
+<li>NLP & ML: NLTK, SpaCy, Embeddings, Transformers</li>
+<li>App & Auth: Streamlit, Firebase Auth, Firestore</li>
+</ul>
+
+#
+
+✨ **Key Features:**
+
+<ul>
+<li>Real-time YouTube scraping & metadata ingestion</li>
+<li>Automated ETL with AWS + Lambda/ Glue</li>
+<li>NLP pipeline: cleaning → embeddings → Topic Categorization | Comment sentiment's Insights</li>
+<li>Interactive Streamlit dashboard with secure login</li>
+</ul>
+
+#
 
 📊 **Impact:**
 
-<br>
-<br>
-<br>
-<br>
+<ul>
+<li>Faster automated ETL (80%+ reduction in manual work)</li>
+<li>Clear content trends & audience sentiment</li>
+<li>Secure multi-user analytics access</li>
+<li>Reliable scheduled data refreshes</li>
+</ul>
 
-**Key Features:**
-
+<br>
 </td>
 <td width="54%">
 
