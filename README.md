@@ -71,7 +71,7 @@
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
-![KunalAnand's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunalAnand2907&theme=dark&hide_border=true)
+![KunalAnand's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=KunalAnand2907&theme=dark&hide_border=true)
 
 </details>
 
