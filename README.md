@@ -1,6 +1,6 @@
 ![git_banner](https://github.com/user-attachments/assets/0ef92ea8-97f4-4d32-9c38-d2b8f83a7f30)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=21&duration=2800&pause=1000&color=086DF7&background=C0FFCB00&width=770&lines=Thanks+for+reviewing+my+profile+!;Turning+Complex+Data+into+Scalable+Intelligence+%7C+AI/ML+•+GenAI+•+;+Big+Data+•+Stats+%7C+Powered+By+Dev/MLOps+,+Analytics+Precision;Roles+⇢+Data+Engineer+%7C+Data+Scientist+%7C+ML+Engineer+%7C;Sr+Business/Data+Analyst+%7C+DevOps+Engineer+%7C+Solution+Engineer;3.10+Y.O.E;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=21&duration=2800&pause=1000&color=086DF7&background=C0FFCB00&width=770&lines=Thanks+for+reviewing+my+profile+!;Turning+Complex+Data+into+Scalable+Intelligence+%7C+AI/ML+•+GenAI+•+;+Big+Data+•+Stats+%7C+Powered+By+Dev/MLOps+,+Analytics+Precision;Roles+⇢+Data+Engineer+%7C+Data+Scientist+%7C+ML+Engineer+%7C;Sr+Business/Data+Analyst+%7C+DevOps+Engineer+%7C+Solution+Engineer;4+Y.O.E;)](https://git.io/typing-svg)
 
 
 <h2 align="center">
