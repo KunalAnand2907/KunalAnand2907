@@ -30,7 +30,7 @@
 
 - 📄 Resume & Cover Letter: [Hire Me..](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
-- 👨🏻‍🎓 My Education: **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **Graduated** (2018-2022) | **CGPA:** 8.55/10
+- 👨🏻‍🎓 My Education: **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **Graduated** (2018-2022) | **CGPA:** 8.6/10
 
 - ⚡ Solved over **400+ questions** on various **competitive coding platforms.**
 
