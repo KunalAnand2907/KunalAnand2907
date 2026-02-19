@@ -34,7 +34,7 @@
 
 - ⚡ Solved over **400+ questions** on various **competitive coding platforms.**
 
-- 💰 If my work, projects, or content have helped you in any way, your support truly means a lot: [BuyMeaCoffee ☕](https://buymeacoffee.com/kunalanande)
+- 💰 If my work, projects, or content have helped you in any way, your support truly means a lot: [buymeacoffee ☕](https://buymeacoffee.com/kunalanande)
 
 ---
 
