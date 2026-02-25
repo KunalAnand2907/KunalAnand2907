@@ -16,7 +16,7 @@
 
 &nbsp; 
 
-#### Glad to see you here 👀&nbsp; ![](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  &nbsp;  [![GitHub Followers](https://img.shields.io/github/followers/KunalAnand2907?style=social)](https://github.com/KunalAnand2907)
+#### Glad to see you here 👀&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  &nbsp;  ![GitHub followers](https://img.shields.io/github/followers/KunalAnand2907.svg?style=social&label=Followers)
 
 - 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
   
