@@ -86,7 +86,7 @@
 <td width="54%">
 
 ### 1️⃣ **Youtube 📺 Data Mining & Analytics 📈 | End-End Data Engineering & Data Science Project**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=streamlit&logoColor=white)](https://yt-comments-sentiment-analyzer.streamlit.app/) &nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=streamlit&logoColor=white)](https://youtu.be/jnX28Kt8u5w?si=u60-lc4x_zx5pmZe) &nbsp;
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalAnand2907/Youtube-Data-Mining-Analytics-End-End-Data-Engineering-Data-Science-Project) &nbsp;
 [![AI Assistant Bot](https://img.shields.io/badge/AI-Chatbot-blue?style=flat-square&logo=firefox&logoColor=white)](https://chat-docs-ai.streamlit.app/)
 
