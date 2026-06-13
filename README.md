@@ -10,7 +10,7 @@
 </h2>
 
 
- **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Data Scientist & Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, ThoughtSpot, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
+ **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Sr. Data Scientist & Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, ThoughtSpot, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Image Processing & SDE Enthusiast! 
 
 <img align="right" alt="Coding" width="350" height="220" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
 
@@ -250,11 +250,11 @@ timeline
 | 🎯 Metric | 📊 Achievement |
 |-----------|----------------|
 | **Manual Effort (Mnging Data Pipelines) Reduction** |  70% ↓ via automated ETL workflows (Docker, Airflow, PySpark, SQL) |
-| **Data Processing Time Reduction (Imp. Query perf)** | 60% ↑ through SQL & PySpark optimizations & Glue/ Dataflow automation |
+| **Data Processing Time Reduction (Imp. Query Perf.)** | 60% ↑ through SQL & PySpark optimizations & Glue/ Dataflow automation |
 | **Customer Query Automation** | 84% ↑ resolution efficiency with 91% accuracy via AI FAQ Chatbot |
 | **Intelligent Rate Card System** | 75% ↑ model accuracy [Fine/Prompt Tuning with Drift Insights] & 60% ↓ exec.+ Mont. time via NLP-driven extraction from unstr. data [Image, Text+Image Pdfs] |
 | **Platform Usage Growth** | 40% ↑ through Confluent Kafka, Flink & ksqlDB batch + real-time streaming enablement [stream lineage, governance, schema evolution/compatibility,  & data portal insights] |
-| **Client Tech Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka 101, RAG, Confluent Cloud & Platform) to 200+ key stakeholders |
+| **Client Tech. Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka 101, RAG, Confluent Cloud & Platform) to 200+ key stakeholders |
 
 </div>
 
