@@ -247,7 +247,7 @@ timeline
 
 <div align="center">
 
-| 🎯 Metric | 📊 Achievement |
+| 🎯 Metric's | 📊 Achievement's |
 |-----------|----------------|
 | **Manual Effort (Mnging Data Pipelines) Reduction** |  70% ↓ via automated ETL workflows (Docker, Airflow, PySpark, SQL) |
 | **Data Processing Time Reduction (Imp. Query Perf.)** | 60% ↑ through SQL & PySpark optimizations & Glue/ Dataflow automation |
