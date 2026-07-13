@@ -262,7 +262,7 @@ timeline
 
 <div align="center">
 
-### Let's be friends on [Twitter](https://x.com/Kunal____29)!
+### Let's be friends on [Twitter](https://x.com/Kunal__A)!
 
 </div>
 
