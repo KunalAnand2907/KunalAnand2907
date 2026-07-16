@@ -262,11 +262,11 @@ timeline
 
 <div align="center">
 
-### Let's be friends on [Twitter](https://x.com/Kunal__A)!
+### Let's be friends on [X](https://x.com/Kunal__A) !
 
 </div>
 
-<h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="30" height="30"> By Kunal Anand </h4>
+<h4 align = 'center'> Designed With <img src ="https://github.com/KunalAnand2907/KunalAnand2907/assets/46574881/26aa917c-5c10-48c4-a3d5-cbd8cce0ea27" width ="30" height="26"> by Kunal </h4>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&descAlign=38&descAlignY=25"/>
