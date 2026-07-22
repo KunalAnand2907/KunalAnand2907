@@ -237,7 +237,7 @@ timeline
         : ⚡ Solutions Engineer (Mar '24 – Sep '25) ⇢ Techno-functional & Multidisciplinary Role
 
     2025-Present : 🏥 EXL
-        : 🚀 Lead Assistant Mngr. | Data Scientist (Sep '25 – Current)
+        : 🚀 Lead Assistant Mngr. | Sr. Data Scientist (Sep '25 – Current)
         : 🏥 Client ⇢ CVS Health
  ```
 
