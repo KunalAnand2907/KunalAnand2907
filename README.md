@@ -18,7 +18,7 @@
 
 #### Glad to see you here 👀&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  &nbsp;  ![GitHub followers](https://img.shields.io/github/followers/KunalAnand2907?label=Followers&style=social)
 
-- 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.4+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
+- 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.5+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
   
 - 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
