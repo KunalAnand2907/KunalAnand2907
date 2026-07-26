@@ -182,7 +182,7 @@ Where Data Meets Creativity for Smarter Insights 💡**
 
 ---
 
-### 3️⃣ **🏠 Stock Market Real-Time Data Analytics via Kafka**
+### 3️⃣ **💹💰 Real-Time Stock Market Analytics with Kafka and AWS**
 
 -- In Progress
 
