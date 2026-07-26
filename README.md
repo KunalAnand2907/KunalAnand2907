@@ -10,7 +10,7 @@
 </h2>
 
 
- **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Sr. Data Scientist & Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistics, Linux, Big Data, Hadoop & Spark, Kafka & Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, ThoughtSpot, QuickSight), ETL, Airflow, Data Modeling, DevOps, Git, Salesforce CRM, Figma, Image Processing & SDE Enthusiast! 
+ **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Sr. Data Scientist & Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistic, Linux, Big Data, Hadoop, Spark, Kafka, Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, ThoughtSpot, QuickSight), ETL/ELT, Airflow, Data Modeling & Catalogue, DevOps & CI/CD, Git, Salesforce CRM, Figma, Image Processing & SDE Enthusiast! 
 
 <img align="right" alt="Coding" width="350" height="220" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
 
@@ -18,13 +18,13 @@
 
 #### Glad to see you here 👀&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  &nbsp;  ![GitHub followers](https://img.shields.io/github/followers/KunalAnand2907?label=Followers&style=social)
 
-- 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.5+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing and developing innovative software solutions.
+- 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.5+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing scalable solutions & enabling data-driven decision-making across diverse business domains.
   
 - 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
 
 - 🌱 I’m currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
 
-- 💬 Ask me anything about Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex, MLOps
+- 💬 Ask me anything about ⇢ Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex, MLOps
 
 - 📫 How to reach me: 📧 **kunalanand2907@gmail.com**, 📞 **+91-7042939501**
 
@@ -130,6 +130,7 @@
 [![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalAnand2907/Youtube-Data-Mining-Analytics-End-End-Data-Engineering-Data-Science-Project) &nbsp;
 [![AI Assistant Bot](https://img.shields.io/badge/AI-Chatbot-blue?style=flat-square&logo=firefox&logoColor=white)](https://chat-docs-ai.streamlit.app/)
 
+
 **Revolutionary interactive -- 🔍YouTube Analytics Intelligence Platform
 Where Data Meets Creativity for Smarter Insights 💡**
 
@@ -174,7 +175,13 @@ Where Data Meets Creativity for Smarter Insights 💡**
 
 🔧 **Tech Stack:**
 
-📊 **Key Features:**
+#
+
+✨ **Key Features:**
+
+#
+
+📊 Impact:
 
 <br>
 <br>
@@ -182,16 +189,45 @@ Where Data Meets Creativity for Smarter Insights 💡**
 
 ---
 
-### 3️⃣ **💹💰 Real-Time Stock Market Analytics with Kafka and AWS**
+### 3️⃣ **📈 Real-Time Stock Market Analytics 💰| Event-Driven Data Engineering with Kafka & AWS**
 
--- In Progress
+[![Code & Worflow](https://img.shields.io/badge/Code-Worflow-blue?style=flat-square&logo=github&logoColor=white)](https://chat-docs-ai.streamlit.app/)
+
+**Transforming live stock market events** into actionable insights through a scalable Kafka-powered streaming pipeline on AWS ☁️📈
 
 🔧 **Tech Stack:**
 
-<br>
-<br>
+<ul>
+  <li>Streaming: Apache Kafka, KRaft/ZooKeeper </li>
+  <li>ETL, Processing & Analytics: Glue, Python, Pandas, Athena</li>
+  <li>Cloud & Storage: EC2, S3</li>
+  <li>Monitoring: CloudWatch, Grafana</li>
+</ul>
 
-📊 **Key Features:**
+#
+
+✨ **Key Features:**
+
+<ul>
+  <li>Real-time stock market data ingestion using Apache Kafka</li>
+  <li>Event-driven streaming pipeline with scalable producer–consumer architecture</li>
+  <li>Automated ETL pipeline from Kafka → S3 (Clean) → Glue → Athena → S3 (Analytical)</li>
+  <li>Serverless analytical querying through Amazon Athena</li>
+</ul>
+
+#
+
+📊 **Impact:**
+
+<ul>
+  <li>Demonstrates a scalable event-driven data engineering architecture</li>
+  <li>Enables low-latency analytics over continuously streaming market data</li>
+  <li>Implements a cloud-native data lake using AWS services</li>
+  <li>Showcases production-style Kafka streaming and real-time data processing</li>
+</ul>
+
+
+
 
 </td>
 </tr>
@@ -215,7 +251,7 @@ Where Data Meets Creativity for Smarter Insights 💡**
         : ⚡ Solutions Engineer (Mar '24 – Sep '25) ⇢ Techno-functional & Multidisciplinary Role
 
     2025-Present : 💼 EXL
-        : 🚀 Lead Assistant Mngr. | Data Scientist (Sep '25 – Current)
+        : 🚀 Lead Assistant Mngr. | Sr. Data & Decision Scientist (Sep '25 – Current) | Team: Retail FrontStore Product Analytics
         : 🏥 Client: CVS Health
 
 #
@@ -237,7 +273,7 @@ timeline
         : ⚡ Solutions Engineer (Mar '24 – Sep '25) ⇢ Techno-functional & Multidisciplinary Role
 
     2025-Present : 🏥 EXL
-        : 🚀 Lead Assistant Mngr. | Sr. Data Scientist (Sep '25 – Current)
+        : 🚀 Lead Assistant Mngr. | Sr. Data & Decision Scientist (Sep '25 – Current)
         : 🏥 Client ⇢ CVS Health
  ```
 
@@ -254,7 +290,7 @@ timeline
 | **Customer Query Automation** | 84% ↑ resolution efficiency with 91% accuracy via AI FAQ Chatbot |
 | **Intelligent Rate Card System** | 75% ↑ model accuracy [Fine/Prompt Tuning with Drift Insights] & 60% ↓ exec.+ Mont. time via NLP-driven extraction from unstr. data [Image, Text+Image Pdfs] |
 | **Platform Usage Growth** | 40% ↑ through Confluent Kafka, Flink & ksqlDB batch + real-time streaming enablement [stream lineage, governance, schema evolution/compatibility,  & data portal insights] |
-| **Client Tech. Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka 101, RAG, Confluent Cloud & Platform) to 200+ key stakeholders |
+| **Client Tech. Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka 101, RAG wih Data Streaming, Confluent Cloud & Platform) to 200+ key stakeholders |
 
 </div>
 
