@@ -20,7 +20,7 @@
 
 - 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.5+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong background in programming and a deep passion for technology, I thrive on designing scalable solutions & enabling data-driven decision-making across diverse business domains.
   
-- 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://github.com/KunalAnand2907/Youtube_DataMining_Analysis-End-End-Data-Engineering-Data-Science-Project)
+- 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://youtu.be/jnX28Kt8u5w?si=5aBsLECNqZe7U44)
 
 - 🌱 I’m currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
 
