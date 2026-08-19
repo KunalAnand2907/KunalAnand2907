@@ -191,7 +191,7 @@ Where Data Meets Creativity for Smarter Insights 💡**
 
 ### 3️⃣ **📈 Real-Time Stock Market Analytics 💰| Event-Driven Data Engineering with Kafka & AWS**
 
-[![Code & Worflow](https://img.shields.io/badge/Code-Worflow-blue?style=flat-square&logo=github&logoColor=white)](https://chat-docs-ai.streamlit.app/)
+[![Code & Worflow](https://img.shields.io/badge/Code-Worflow-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/KunalAnand2907/Stock_Market_Real-Time_Data_Analysis_via_Kafka)
 
 **Transforming live stock market events** into actionable insights through a scalable Kafka-powered streaming pipeline on AWS ☁️📈
 
