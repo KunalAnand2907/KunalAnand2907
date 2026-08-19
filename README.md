@@ -298,7 +298,7 @@ timeline
 
 <div align="center">
 
-### Let's be friends on [X](https://x.com/Kunal__A) !
+### Let's be friends on [X](https://x.com/Kunal__A)!
 
 </div>
 
