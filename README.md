@@ -58,10 +58,9 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=28#gh-dark-mode-only"/>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=28#gh-dark-mode-only width = "320" "/>
   </a>
 </p>
-
 <p align="left">
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachehadoop" alt="hadoop" width="30" height="30"/></a>&nbsp;
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachehive" alt="hive" width="30" height="30"/></a>&nbsp;
