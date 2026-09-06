@@ -58,7 +58,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=18#gh-dark-mode-only" width = "750"/>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=18#gh-dark-mode-only" width = "730"/>
   </a>
 </p>
 <p align="left">
