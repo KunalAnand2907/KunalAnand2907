@@ -5,14 +5,14 @@
 
 <h2 align="center">
   <span style='color:black;'>
-    Hi There <img src="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width="40" height="35">, I'm <a href="https://www.linkedin.com/in/kunal-anand-b36730169/" target="_blank">Kunal Anand!</a>
+    Hi There <img src="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width="40" height="30">, I'm <a href="https://www.linkedin.com/in/kunal-anand-b36730169/" target="_blank">Kunal Anand!</a>
   </span>
 </h2>
 
 
  **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Sr. Data Scientist & Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistic, Linux, Big Data, Hadoop, Spark, Kafka, Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, ThoughtSpot, QuickSight), ETL/ELT, Airflow, Data Modeling & Catalogue, DevOps & CI/CD, Git, Salesforce CRM, Figma, Image Processing & SDE Enthusiast! 
 
-<img align="right" alt="Coding" width="350" height="220" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
+<img align="right" alt="Coding" width="300" height="220" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
 
 &nbsp; 
 
@@ -44,6 +44,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Kun2907/)](https://leetcode.com/Kun2907/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kunalanand2907)](https://medium.com/@kunalanand2907)&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://kaggle.com/kunal18csu110)](https://kaggle.com/kunal18csu110)&nbsp;
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&link=https://share.streamlit.io/user/kunalanand2907)](https://share.streamlit.io/user/kunalanand2907)&nbsp;
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/kunal7999/)](https://public.tableau.com/app/profile/kunal7999/)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kun__al29/)](https://www.instagram.com/kun__al29/)&nbsp;
 [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue&link=https://www.hackerearth.com/@kunalanand2907/)](https://www.hackerearth.com/@kunalanand2907/)
@@ -56,47 +57,21 @@
 ### 🔧&nbsp; **Tech Stack & Tools:**
 
 <p align="left">
-  <table width="100%" style="table-layout: fixed;">
-    <tr>
-      <td width="5.88%" align="center"><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://cassandra.apache.org/"><img src="https://cdn.simpleicons.org/apachecassandra/1287B1" alt="Cassandra" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.elastic.co/"><img src="https://cdn.simpleicons.org/elasticsearch/00BFB3" alt="Elasticsearch" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://cloud.google.com/"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://graphql.org/"><img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://hadoop.apache.org/"><img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="Hadoop" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.heroku.com/"><img src="https://cdn.simpleicons.org/heroku/430098" alt="Heroku" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://hive.apache.org/"><img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Hive" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://html.spec.whatwg.org/"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://kubernetes.io/"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="35" height="35"/></a></td>
-    </tr>
-    <tr>
-    <td width="5.88%" align="center"><a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Microsoft SQL Server" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.oracle.com/"><img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://seaborn.pydata.org/"><img src="https://cdn.simpleicons.org/seaborn/4C72B0" alt="Seaborn" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="35" height="35"/></a></td>
-      <td width="5.88%" align="center"><a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="35" height="35"/></a></td>
-      <!-- 17th cell keeps both rows exactly equal -->
-      <td width="5.88%" align="center"></td>
-    </tr>
-  </table>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=27#gh-dark-mode-only"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachehadoop" alt="hadoop" width="30" height="30"/></a>&nbsp;
+  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachehive" alt="hive" width="30" height="30"/></a>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="mysql" width="35" height="35"/>&nbsp;
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>&nbsp;
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>&nbsp;
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/streamlit.svg" alt="streamlit" width="35" height="35"/>
+</a>
+</a>
 </p>
 
 ---
