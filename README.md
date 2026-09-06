@@ -12,7 +12,7 @@
 
  **🌟  Welcome to my virtual workspace!** <span style="text-align: center;"> 🌍 **&#8611;** Sr. Data Scientist & Engineer | Runner Up SIH 22 | AWS (SAA-C02) | CCDAK | 🚀 Aspiring Python, AI/ML, DL, GenAI & RAG, NLP, Chatbots, Data Structures, Statistic, Linux, Big Data, Hadoop, Spark, Kafka, Flink, SQL & NoSQL, 📊 Data Analysis (Tableau, ThoughtSpot, QuickSight), ETL/ELT, Airflow, Data Modeling & Catalogue, DevOps & CI/CD, Git, Salesforce CRM, Figma, Image Processing & SDE Enthusiast! 
 
-<img align="right" alt="Coding" width="300" height="220" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
+<img align="right" alt="Coding" width="320" height="220" src="https://github.com/user-attachments/assets/eeb4c543-b372-4747-a8d2-162c375bfdda"> 
 
 &nbsp; 
 
