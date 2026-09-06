@@ -201,6 +201,7 @@ Where Data Meets Creativity for Smarter Insights 💡**
   <li>Enables low-latency analytics over continuously streaming market data</li>
   <li>Implements a cloud-native data lake using AWS services</li>
   <li>Showcases production-style Kafka streaming and real-time data processing</li>
+  &nbsp;
 </ul>
 
 
