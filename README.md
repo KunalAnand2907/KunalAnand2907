@@ -58,17 +58,17 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=28#gh-dark-mode-only" width = "1000" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cassandra,css,django,docker,elasticsearch,flask,gcp,git,graphql,heroku,html,java,js,kubernetes,linux,mongodb,mysql,opencv,ps,postgres,py,pytorch,redis,sklearn,sqlite,tensorflow&theme=dark&perline=28#gh-dark-mode-only" width = "1300" />
   </a>
 </p>
 <p align="left">
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachehadoop" alt="hadoop" width="30" height="30"/></a>&nbsp;
   <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/apachehive" alt="hive" width="30" height="30"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="mysql" width="35" height="35"/>&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mysql/FFFFFF" alt="mysql" width="30" height="30"/>&nbsp;
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/></a>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="30" height="30"/></a>&nbsp;
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="30" height="30"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/streamlit.svg" alt="streamlit" width="35" height="35"/>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/streamlit.svg" alt="streamlit" width="30" height="30"/>
 </a>
 </a>
 </p>
