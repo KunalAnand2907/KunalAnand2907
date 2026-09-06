@@ -56,43 +56,45 @@
 ### 🔧&nbsp; **Tech Stack & Tools:**
 
 <p align="left">
-  <table>
+  <table width="100%" style="table-layout: fixed;">
     <tr>
-      <td style="padding:8px"><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-      <td style="padding:8px"><a href="https://www.elastic.co" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/99777a47-c513-4da8-bdb8-f602cba7cda3" alt="streamlit" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-      <td style="padding:8px"><a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://hive.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://cassandra.apache.org/"><img src="https://cdn.simpleicons.org/apachecassandra/1287B1" alt="Cassandra" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.djangoproject.com/"><img src="https://cdn.simpleicons.org/django/44B78B" alt="Django" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.docker.com/"><img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.elastic.co/"><img src="https://cdn.simpleicons.org/elasticsearch/00BFB3" alt="Elasticsearch" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://streamlit.io/"><img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://cloud.google.com/"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="Google Cloud" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://graphql.org/"><img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://hadoop.apache.org/"><img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" alt="Hadoop" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.heroku.com/"><img src="https://cdn.simpleicons.org/heroku/430098" alt="Heroku" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://hive.apache.org/"><img src="https://cdn.simpleicons.org/apachehive/FDEE21" alt="Hive" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://html.spec.whatwg.org/"><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.java.com/"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" alt="Java" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://kubernetes.io/"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="35" height="35"/></a></td>
     </tr>
     <tr>
-      <td style="padding:8px"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></td>
-      <td style="padding:8px"><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a></td>
-      <td style="padding:8px"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/></a></td>
-      <td style="padding:8px"><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/></a></td>
+    <td width="5.88%" align="center"><a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="Microsoft SQL Server" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.mysql.com/"><img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.oracle.com/"><img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://pandas.pydata.org/"><img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.adobe.com/products/photoshop.html"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" alt="Photoshop" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://pytorch.org/"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://redis.io/"><img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://scikit-learn.org/"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://seaborn.pydata.org/"><img src="https://cdn.simpleicons.org/seaborn/4C72B0" alt="Seaborn" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.sqlite.org/"><img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="35" height="35"/></a></td>
+      <td width="5.88%" align="center"><a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="35" height="35"/></a></td>
+      <!-- 17th cell keeps both rows exactly equal -->
+      <td width="5.88%" align="center"></td>
     </tr>
   </table>
 </p>
