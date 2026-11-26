@@ -19,7 +19,7 @@
 #### Glad to see you here 👀&nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=kunalanand2907&color=blue)  &nbsp;  ![GitHub followers](https://img.shields.io/github/followers/KunalAnand2907?label=Followers&style=social)
 &nbsp;
 
-- 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.7+** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong bg. in programming and a deep passion for tech, I thrive on designing scalable solutions & enabling data-driven decision-making across diverse business domains.
+- 👨‍💻 I am a **Sr. Data Scientist** at **EXL** with **4.8** Y.O.E in IT. Ex ⇢ **Solutions Engineer** at **Confluent** | **Data Scientist & Engineer** at **Cognizant**. With a strong bg. in programming and a deep passion for tech, I thrive on designing scalable solutions & enabling data-driven decision-making across diverse business domains.
   
 - 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://youtu.be/jnX28Kt8u5w?si=5aBsLECNqZe7U44)
 
@@ -35,7 +35,7 @@
 
 - ⚡ Solved over **400+ questions** on various **competitive coding platforms.**
 
-- 💰 If my work, projects, or content have helped you in any way, your support truly means a lot: [buymeacoffee ☕](https://buymeacoffee.com/kunalanande) | [Let's Connect ✨](https://linktr.ee/KunalAnand)
+- 💰 If my work, projects, or content have helped you in any way, your support truly means a lot: [**Let's Connect** ✨](https://linktr.ee/KunalAnand) | [**buymeacoffee** ☕](https://buymeacoffee.com/kunalanande)
 
 ---
 
@@ -252,7 +252,7 @@ timeline
 
     2025-Present : 🏥 EXL
         : 🚀 Lead Assistant Mngr. | Sr. Data & Decision Scientist (Sep '25 – Current)
-        : 🏥 Client ⇢ CVS Health & Aetna Insurance
+        : 🏥 Client ⇢ CVS Health
  ```
 
 ---
@@ -266,10 +266,10 @@ timeline
 | **1️⃣ Enterprise Analytics & Business Intelligence** | Enabled self-serve analytics across **10,000+ retail stores & e-commerce channels**; improved business decision-making speed by **30%** through Pricing, Promotions & Sales Analytics. |
 | **2️⃣ Business Value & Data-Driven Optimization** | Delivered **$3M+ in cost avoidance** through strategic analytics, profitability improvement and data-driven recommendations; improved data model and query performance by **50%**. |
 | **3️⃣ GenAI-Powered Analytics – Spotter AI** | Deployed a GenAI-powered NLP/NLQ assistant for conversational self-serve analytics; established a **Golden Record for Sales Data**, creating a unified source of truth. |
-| **4️⃣ Enterprise Streaming & Platform Adoption** | Enabled **40% platform usage growth** through Confluent Cloud & Platform, Flink, ksqlDB, batch and real-time streaming solutions; maintained **95% CSAT**. |
+| **4️⃣ Enterprise Streaming & Platform Adoption** | Enabled **45% platform usage growth** through Confluent Cloud & Platform, Flink, ksqlDB, batch and real-time streaming solutions; maintained **95% CSAT**. |
 | **5️⃣ Technical Discovery & Solution Architecture** | Led **20+ technical discovery and architecture engagements**, delivered **30+ customized demos** to **200+ stakeholders**, and supported **50+ solution questionnaires**. |
 | **6️⃣ Customer Success & Hybrid Architecture** | Developed **10+ customer success plans and architecture blueprints**, enabling enterprise adoption of Confluent Cloud & Platform, with migrations, and hybrid deployment architectures. |
-| **7️⃣ Intelligent Workforce Allocation: Rate Card Recommendation Engine** | Improved extraction model accuracy by **75%** through fine-tuning and prompt engineering; reduced execution and monitoring time by **60%** using NLP-driven unstructured data extraction. |
+| **7️⃣ Intelligent Workforce Allocation: Rate Card Recommendation Engine** | Improved extraction model accuracy by **80%** through fine-tuning and prompt engineering; reduced execution and monitoring time by **60%** using NLP-driven unstructured data extraction. |
 | **8️⃣ Conversational Assistant: AI FAQ Chatbot** | Automated **80% of custom support queries** and achieved **90% query resolution efficiency** through an application-integrated AI chatbot. |
 | **9️⃣ Healthcare DE & Pipeline Optimisation** | Reduced data load & processing time by **70%**, pipeline monitoring time by **40%**, and improved Query performance via SQL & Pyspark best practices, query tuning, & optimization tech. |
 
@@ -297,12 +297,12 @@ timeline
   </tr>
   <tr>
     <td width="50%">
-      <h2>📈 75%</h2>
+      <h2>📈 80%</h2>
       <strong>AI Extraction Accuracy Improvement</strong><br/>
       <sub>Cognizant · Data Science</sub>
     </td>
     <td width="50%">
-      <h2>⚡ 40%</h2>
+      <h2>⚡ 45%</h2>
       <strong>Platform Usage Growth</strong><br/>
       <sub>Confluent · Real-Time Streaming</sub>
     </td>
@@ -314,7 +314,7 @@ timeline
       <sub>Confluent · Customer Engineering</sub>
     </td>
     <td width="50%">
-      <h2>🚀 65%</h2>
+      <h2>🚀 70%</h2>
       <strong>Data Processing Time Reduction</strong><br/>
       <sub>Cognizant · Data Engineering</sub>
     </td>
