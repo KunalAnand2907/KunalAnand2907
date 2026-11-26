@@ -263,12 +263,15 @@ timeline
 
 | 🎯 Metrics | 📊 Achievements |
 |-----------|----------------|
-| **Manual Effort (Mnging Data Pipelines) Reduction** |  70% ↓ via automated ETL workflows (Docker, Airflow, PySpark, SQL) |
-| **Data Processing Time Reduction (Imp. Query Perf.)** | 60% ↑ through SQL & PySpark optimizations & Glue/ Dataflow automation |
-| **Customer Query Automation** | 84% ↑ resolution efficiency with 91% accuracy via AI FAQ Chatbot |
-| **Intelligent Rate Card System** | 75% ↑ model accuracy [Fine/Prompt Tuning with Drift Insights] & 60% ↓ exec.+ Mont. time via NLP-driven extraction from unstr. data [Image, Text+Image Pdfs] |
-| **Platform Usage Growth** | 40% ↑ through Confluent Kafka, Flink & ksqlDB batch + real-time streaming enablement [stream lineage, governance, schema evolution/compatibility,  & data portal insights] |
-| **Client Tech. Engagements & Solution Demos** | Led 20+ technical discovery & architecture sessions for global clients & Delivered 30+ tailored demos (Kafka 101, RAG wih Data Streaming, Confluent Cloud & Platform) to 200+ key stakeholders |
+| **1️⃣ Enterprise Analytics & Business Intelligence** | Enabled self-serve analytics across **10,000+ retail stores & e-commerce channels**; improved business decision-making speed by **30%** through Pricing, Promotions & Sales Analytics. |
+| **2️⃣ Business Value & Data-Driven Optimization** | Delivered **$3M+ in cost avoidance** through strategic analytics, profitability improvement and data-driven recommendations; improved data model and query performance by **50%**. |
+| **3️⃣ GenAI-Powered Analytics – Spotter AI** | Deployed a GenAI-powered NLP/NLQ assistant for conversational self-serve analytics; established a **Golden Record for Sales Data**, creating a unified source of truth. |
+| **4️⃣ Enterprise Streaming & Platform Adoption** | Enabled **40% platform usage growth** through Confluent Cloud & Platform, Flink, ksqlDB, batch and real-time streaming solutions; maintained **95% CSAT**. |
+| **5️⃣ Technical Discovery & Solution Architecture** | Led **20+ technical discovery and architecture engagements**, delivered **30+ customized demos** to **200+ stakeholders**, and supported **50+ solution questionnaires**. |
+| **6️⃣ Customer Success & Hybrid Architecture** | Developed **10+ customer success plans and architecture blueprints**, enabling enterprise adoption of Confluent Cloud & Platform, cloud-to-on-premise and on-premise-to-cloud migrations, and hybrid deployment architectures. |
+| **7️⃣ Intelligent Workforce Allocation: Rate Card Recommendation Engine** | Improved extraction model accuracy by **75%** through fine-tuning and prompt engineering; reduced execution and monitoring time by **60%** using NLP-driven unstructured data extraction. |
+| **8️⃣ Conversational Assistant: AI FAQ Chatbot** | Automated **80% of custom support queries** and achieved **90% query resolution efficiency** through an application-integrated AI chatbot. |
+| **9️⃣ Healthcare DE & Pipeline Optimisation ** | Reduced data load & processing time by **70%**, pipeline monitoring time by **40%**, and improved Query performance via SQL & Pyspark best practices, query tuning, and optimization techniques. 
 
 </div>
 
