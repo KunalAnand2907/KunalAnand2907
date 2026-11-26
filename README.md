@@ -229,8 +229,8 @@ Where Data Meets Creativity for Smarter Insights 💡**
         : ⚡ Solutions Engineer (Mar '24 – Sep '25) ⇢ Techno-functional & Multidisciplinary Role
 
     2025-Present : 💼 EXL
-        : 🚀 Lead Assistant Mngr. | Sr. Data & Decision Scientist (Sep '25 – Current) | Team: Retail FrontStore Product Analytics
-        : 🏥 Client: CVS Health
+        : 🚀 Lead Assistant Mngr. | Sr. Data & Decision Scientist (Sep '25 – Current) | Team: Retail FrontStore Product Analytics | Customer Experience 
+        : 🏥 Client: CVS Health & Aetna Insurance
 
 #
 
@@ -252,7 +252,7 @@ timeline
 
     2025-Present : 🏥 EXL
         : 🚀 Lead Assistant Mngr. | Sr. Data & Decision Scientist (Sep '25 – Current)
-        : 🏥 Client ⇢ CVS Health
+        : 🏥 Client ⇢ CVS Health & Aetna Insurance
  ```
 
 ---
