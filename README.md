@@ -23,7 +23,7 @@
   
 - 🔭  My Latest Project: [Youtube 📺 Data Mining & Analysis 📈 End-End Data Engineering & Data Science Project](https://youtu.be/jnX28Kt8u5w?si=5aBsLECNqZe7U44)
 
-- 🌱 I’m currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
+- 🌱 Currently learning Salesforce Developer, Full Stack Technologies: HTML, CSS, Bootstrap, JavaScript, Django, Node & React
 
 - 💬 Ask me anything about ⇢ Python, SQL/ NoSQL, Statistics, Data Structures, GenAI & RAG, ML, DL, NLP, Big Data ~ [MapReduce, Hive, Hadoop, Spark, Kafka, Flink], Aws, Azure, Gcp, Linux, Tableau, ETL, DevOps, Docker, K8, Terraform, Regex, MLOps
 
@@ -31,7 +31,7 @@
 
 - 📄 Resume & Cover Letter: [Hire Me..](https://drive.google.com/drive/u/0/folders/1gI1W7KY1Iu8sbHMxe0sKlvPR4XKWBkie)
 
-- 👨🏻‍🎓 My Education: **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **CGPA:** 8.6/10
+- 👨🏻‍🎓 Education: **B. Tech in CSE(Specialization : Data Science & Artificial Intelligence)** From **The NorthCap University** | **CGPA:** 8.6/10
 
 - ⚡ Solved over **400+ questions** on various **competitive coding platforms.**
 
@@ -268,10 +268,58 @@ timeline
 | **3️⃣ GenAI-Powered Analytics – Spotter AI** | Deployed a GenAI-powered NLP/NLQ assistant for conversational self-serve analytics; established a **Golden Record for Sales Data**, creating a unified source of truth. |
 | **4️⃣ Enterprise Streaming & Platform Adoption** | Enabled **40% platform usage growth** through Confluent Cloud & Platform, Flink, ksqlDB, batch and real-time streaming solutions; maintained **95% CSAT**. |
 | **5️⃣ Technical Discovery & Solution Architecture** | Led **20+ technical discovery and architecture engagements**, delivered **30+ customized demos** to **200+ stakeholders**, and supported **50+ solution questionnaires**. |
-| **6️⃣ Customer Success & Hybrid Architecture** | Developed **10+ customer success plans and architecture blueprints**, enabling enterprise adoption of Confluent Cloud & Platform, cloud-to-on-premise and on-premise-to-cloud migrations, and hybrid deployment architectures. |
+| **6️⃣ Customer Success & Hybrid Architecture** | Developed **10+ customer success plans and architecture blueprints**, enabling enterprise adoption of Confluent Cloud & Platform, with migrations, and hybrid deployment architectures. |
 | **7️⃣ Intelligent Workforce Allocation: Rate Card Recommendation Engine** | Improved extraction model accuracy by **75%** through fine-tuning and prompt engineering; reduced execution and monitoring time by **60%** using NLP-driven unstructured data extraction. |
 | **8️⃣ Conversational Assistant: AI FAQ Chatbot** | Automated **80% of custom support queries** and achieved **90% query resolution efficiency** through an application-integrated AI chatbot. |
-| **9️⃣ Healthcare DE & Pipeline Optimisation ** | Reduced data load & processing time by **70%**, pipeline monitoring time by **40%**, and improved Query performance via SQL & Pyspark best practices, query tuning, and optimization techniques. 
+| **9️⃣ Healthcare DE & Pipeline Optimisation** | Reduced data load & processing time by **70%**, pipeline monitoring time by **40%**, and improved Query performance via SQL & Pyspark best practices, query tuning, & optimization tech. |
+
+</div>
+
+#
+
+
+<h3>🏆 Key Professional Achievements</h3>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h2>💰 $3M+</h2>
+      <strong>Business Cost Avoidance</strong><br/>
+      <sub>EXL · Enterprise Analytics</sub>
+    </td>
+    <td width="50%">
+      <h2>🏬 10,000+</h2>
+      <strong>Retail Stores & E-commerce Channels</strong><br/>
+      <sub>EXL · Enterprise Analytics</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h2>📈 75%</h2>
+      <strong>AI Extraction Accuracy Improvement</strong><br/>
+      <sub>Cognizant · Data Science</sub>
+    </td>
+    <td width="50%">
+      <h2>⚡ 40%</h2>
+      <strong>Platform Usage Growth</strong><br/>
+      <sub>Confluent · Real-Time Streaming</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h2>🎯 95%</h2>
+      <strong>Customer Satisfaction (CSAT)</strong><br/>
+      <sub>Confluent · Customer Engineering</sub>
+    </td>
+    <td width="50%">
+      <h2>🚀 65%</h2>
+      <strong>Data Processing Time Reduction</strong><br/>
+      <sub>Cognizant · Data Engineering</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
