@@ -1,11 +1,11 @@
 ![git_banner](https://github.com/user-attachments/assets/0ef92ea8-97f4-4d32-9c38-d2b8f83a7f30)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=21&duration=2800&pause=1000&color=086DF7&background=C0FFCB00&width=770&lines=Thanks+for+reviewing+my+profile+!;Turning+Complex+Data+into+Scalable+Intelligence+%7C+AI/ML+•+GenAI+•+;+Big+Data+•+Stats+%7C+Powered+By+Dev/MLOps+,+Analytics+Precision;Roles+⇢++Sr.+Data+Engineer+%7C+Sr.+Data+Scientist+%7C+Sr.+ML+Engineer+%7C;Sr+Business/Data+Analyst+%7C+DevOps+Engineer+%7C+Solution+Engineer;4.7+Y.O.E;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allerta+Stencil&size=21&duration=2800&pause=1000&color=086DF7&background=C0FFCB00&width=770&lines=Thanks+for+reviewing+my+profile+!;Turning+Complex+Data+into+Scalable+Intelligence+%7C+AI/ML+•+GenAI+•+;+Big+Data+•+Stats+%7C+Powered+By+Dev/MLOps+,+Analytics+Precision;Roles+⇢++Sr.+Data+Engineer+%7C+Sr.+Data+Scientist+%7C+Sr.+ML+Engineer+%7C;Sr+Business/Data+Analyst+%7C+DevOps+Engineer+%7C+Solution+Engineer;4.8Y.O.E;)](https://git.io/typing-svg)
 
 
 <h2 align="center">
   <span style='color:black;'>
-    Hi There <img src="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width="40" height="30">, I'm <a href="https://www.linkedin.com/in/kunal-anand-b36730169/" target="_blank">Kunal Anand!</a>
+    Hi There <img src="https://github.com/user-attachments/assets/8ae38217-0d5e-4e39-9ce6-d18e619782cd" width="40" height="30">, I'm <a href="https://linktr.ee/KunalAnand" target="_blank">Kunal Anand!</a>
   </span>
 </h2>
 
